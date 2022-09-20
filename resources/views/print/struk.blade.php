@@ -33,7 +33,7 @@
 </head>
 <body>
     <div class="title">CafeAl</div>
-    <p class="text-center">Jl. Jenderal Ahmad Yani, Pandeglang, Kec. Pandeglang, Kabupaten Pandeglang, Banten 42211,</p>
+    <p class="text-center">Jl. Isekai Nomor 12, Negara Word Edge</p>
     <div class="text-center">==========================</div>
         <table class="tg" style="undefined;table-layout: fixed; width: 200px">
         <colgroup>
