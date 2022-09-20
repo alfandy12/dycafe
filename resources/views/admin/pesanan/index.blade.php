@@ -16,7 +16,7 @@
           <div class="flex justify-end mx-4 md:mr-4">
               <div class="form-control w-full md:w-1/2">
                 <div class="flex space-x-2">
-                  <input name="search" type="text" placeholder="Cari Nama Account" class="w-full input input-primary input-bordered" value="{{request('search')}}"> 
+                  <input name="search" type="text" placeholder="Cari nomor pesanan" class="w-full input input-primary input-bordered" value="{{request('search')}}"> 
                   <button class="btn btn-primary"><svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16l2.879-2.879m0 0a3 3 0 104.243-4.242 3 3 0 00-4.243 4.242zM21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg></button>
