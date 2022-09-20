@@ -1,3 +1,6 @@
+# Sumbangannya kawan kawan hehe
+https://saweria.co/alfandy12
+
 # DyCafe
 
 This is the second application that I made, and in my opinion now the database creation application is too simple, please if you want to use or develop it.
