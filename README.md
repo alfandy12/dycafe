@@ -27,7 +27,7 @@ git clone git@github.com:alfandy12/dycafe.git
 Then, install dependencies and fetch data to your local machine.
 
 ```bash
-cd learn-livewire
+cd dycafe
 composer install
 npm install
 npm run dev
