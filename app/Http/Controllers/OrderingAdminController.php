@@ -19,7 +19,7 @@ class OrderingAdminController extends Controller
         //
         $orderings = Ordering::latest()->paginate(8)->withQueryString();
         if (request('search')) {
-            $orderings = Ordering::latest()->where('name', 'like', '%' .request('search'). '%')->paginate(8);
+            $orderings = Ordering::latest()->where('no_pesanan', 'like', '%' .request('search'). '%')->paginate(8);
                 $orderings->appends(['search' => request('search')]);
         }
         return view('admin.pesanan.index', compact('orderings'));
