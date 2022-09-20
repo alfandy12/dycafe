@@ -12,13 +12,13 @@ To get started running the project locally, please follow the steps below.
 First, clone the repository.
 
 ```bash
-git clone git@github.com:chandraauliatama/learn-livewire.git
+git clone git@github.com:alfandy12/dycafe.git
 ```
 
 or
 
 ```bash
-git clone https://github.com/chandraauliatama/learn-livewire.git
+git clone git@github.com:alfandy12/dycafe.git
 ```
 
 Then, install dependencies and fetch data to your local machine.
